@@ -25,3 +25,11 @@
 - get all games in a pool => user can only make one bet in each game, so the response returns the last bet or null if no bets were made
 
 #### Guess/Bet routes
+
+### Mobile
+- Router
+  - create and add types to routes
+- Integrate API
+  - install Axios
+  - configure access to API
+  - add to context
