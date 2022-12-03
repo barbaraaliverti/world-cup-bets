@@ -1,7 +1,7 @@
 import { Box } from 'native-base';
 import { NavigationContainer } from '@react-navigation/native';
 import { useAuth } from '../hooks/useAuth';
-import { SignIn } from '../screens/SignIn';
+import { SignIn } from '../screens/Signin';
 import { AppRoutes } from './app.routes';
 
 
