@@ -7,8 +7,13 @@ https://www.figma.com/community/file/1169028343875283461
 
 ## How to run this project
 ### Server
+Start server:
 ```
   npm run dev
+```
+Browse database:
+```
+  npx prisma studio
 ```
 
 ### Web
