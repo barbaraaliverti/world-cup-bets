@@ -27,7 +27,7 @@ export function PoolHeader({ data }: Props) {
 
         <HStack>
           <Text color="gray.200" fontSize="xs" mr={1}>
-            Código:
+            Code:
           </Text>
 
           <Text color="gray.200" fontSize="xs" fontFamily="heading">
