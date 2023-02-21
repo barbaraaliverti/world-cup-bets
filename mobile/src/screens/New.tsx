@@ -24,7 +24,7 @@ export function New () {
     try {
       setIsloading(true);
 
-      await api.post('/pools', { title });
+      await api.post('/pools', { title: title.toUpperCase() });
 
       toast.show({
         title: `New pool created: ${title}`,
